@@ -9,3 +9,7 @@
 - ### [얼굴 키포인트 감지(2022.02.15)](https://github.com/teng-ny/Kaggle/tree/main/4.%20Facial%20Keypoint%20Detection)
   - [대회정보](https://www.kaggle.com/c/facial-keypoints-detection/overview)
   - 딥러닝 -> keras 사용
+
+- ### [재난 트윗을 이용한 자연어 처리(2022.02.16)](https://www.kaggle.com/c/nlp-getting-started/overview)
+  - [대회정보](https://www.kaggle.com/c/facial-keypoints-detection/overview)
+  - 딥러닝 -> keras 사용
